@@ -1,0 +1,312 @@
+[table][**]Zlecenie[||]Suma czasów budowy[||]Eko[/**]
+[*][building]wood[/building] Tartak, poziom 1
+[|][b]00:00:05[|]1/0/0
+[*][building]stone[/building] Cegielnia, poziom 1
+[|][b]00:00:10[|]1/1/0
+[*][building]iron[/building] Huta żelaza, poziom 1
+[|][b]00:00:16[|]1/1/1
+[*][building]stone[/building] Cegielnia, poziom 2
+[|][b]00:00:21[|]1/2/1
+[*][building]wood[/building] Tartak, poziom 2
+[|][b]00:00:26[|]2/2/1
+[*][building]main[/building] Ratusz, poziom 2
+[|][b]00:00:31[|]2/2/1
+[*][building]storage[/building] Spichlerz, poziom 2
+[|][b]00:00:36[|]2/2/1
+[*][building]iron[/building] Huta żelaza, poziom 2
+[|][b]00:00:42[|]2/2/2
+[*][building]main[/building] Ratusz, poziom 3
+[|][b]00:01:50[|]2/2/2
+[*][building]wood[/building] Tartak, poziom 3
+[|][b]00:02:55[|]3/2/2
+[*][building]main[/building] Ratusz, poziom 4
+[|][b]00:06:11[|]3/2/2
+[*][building]storage[/building] Spichlerz, poziom 3
+[|][b]00:07:21[|]3/2/2
+[*][building]iron[/building] Huta żelaza, poziom 3
+[|][b]00:08:35[|]3/2/3
+[*][building]stone[/building] Cegielnia, poziom 3
+[|][b]00:09:37[|]3/3/3
+[*][building]iron[/building] Huta żelaza, poziom 4
+[|][b]00:13:21[|]3/3/4
+[*][building]wood[/building] Tartak, poziom 4
+[|][b]00:16:28[|]4/3/4
+[*][building]stone[/building] Cegielnia, poziom 4
+[|][b]00:19:35[|]4/4/4
+[*][building]wood[/building] Tartak, poziom 5
+[|][b]00:25:31[|]5/4/4
+[*][building]wood[/building] Tartak, poziom 6
+[|][b]00:34:52[|]6/4/4
+[*][building]stone[/building] Cegielnia, poziom 5
+[|][b]00:40:48[|]6/5/4
+[*][building]iron[/building] Huta żelaza, poziom 5
+[|][b]00:47:55[|]6/5/5
+[*][building]wood[/building] Tartak, poziom 7
+[|][b]01:01:16[|]7/5/5
+[*][building]stone[/building] Cegielnia, poziom 6
+[|][b]01:10:37[|]7/6/5
+[*][building]stone[/building] Cegielnia, poziom 7
+[|][b]01:23:58[|]7/7/5
+[*][building]wood[/building] Tartak, poziom 8
+[|][b]01:42:03[|]8/7/5
+[*][building]stone[/building] Cegielnia, poziom 8
+[|][b]02:00:08[|]8/8/5
+[*][building]wood[/building] Tartak, poziom 9
+[|][b]02:23:47[|]9/8/5
+[*][building]stone[/building] Cegielnia, poziom 9
+[|][b]02:47:26[|]9/9/5
+[*][building]stone[/building] Cegielnia, poziom 10
+[|][b]03:17:40[|]9/10/5
+[*][building]farm[/building] Zagroda, poziom 2
+[|][b]03:17:46[|]9/10/5
+[*][building]barracks[/building] Koszary, poziom 1
+[|][b]03:17:54[|]9/10/5
+[*][building]market[/building] Rynek, poziom 1
+[|][b]03:18:04[|]9/10/5
+[*][building]wall[/building] Mur, poziom 1
+[|][b]03:18:17[|]9/10/5
+[*][building]wall[/building] Mur, poziom 2
+[|][b]03:18:30[|]9/10/5
+[*][building]stone[/building] Cegielnia, poziom 11
+[|][b]03:56:32[|]9/11/5
+[*][building]farm[/building] Zagroda, poziom 3
+[|][b]03:57:54[|]9/11/5
+[*][building]wood[/building] Tartak, poziom 10
+[|][b]04:28:08[|]10/11/5
+[*][building]iron[/building] Huta żelaza, poziom 6
+[|][b]04:39:20[|]10/11/6
+[*][building]wall[/building] Mur, poziom 3
+[|][b]04:43:22[|]10/11/6
+[*][building]iron[/building] Huta żelaza, poziom 7
+[|][b]04:59:23[|]10/11/7
+[*][building]storage[/building] Spichlerz, poziom 4
+[|][b]05:02:55[|]10/11/7
+[*][building]farm[/building] Zagroda, poziom 4
+[|][b]05:07:04[|]10/11/7
+[*][building]farm[/building] Zagroda, poziom 5
+[|][b]05:14:58[|]10/11/7
+[*][building]iron[/building] Huta żelaza, poziom 8
+[|][b]05:37:04[|]10/11/8
+[*][building]storage[/building] Spichlerz, poziom 5
+[|][b]05:43:47[|]10/11/8
+[*][building]wood[/building] Tartak, poziom 11
+[|][b]07:24:31[|]11/11/8
+[*][building]wood[/building] Tartak, poziom 12
+[|][b]09:33:37[|]12/11/8
+[*][building]stone[/building] Cegielnia, poziom 12
+[|][b]11:31:57[|]12/12/8
+[*][building]iron[/building] Huta żelaza, poziom 9
+[|][b]12:48:53[|]12/12/9
+[*][building]wood[/building] Tartak, poziom 13
+[|][b]15:40:02[|]13/12/9
+[*][building]stone[/building] Cegielnia, poziom 13
+[|][b]17:50:58[|]13/13/9
+[*][building]wall[/building] Mur, poziom 4
+[|][b]18:03:20[|]13/13/9
+[*][building]iron[/building] Huta żelaza, poziom 10
+[|][b]19:01:29[|]13/13/10
+[*][building]market[/building] Rynek, poziom 2
+[|][b]19:01:39[|]13/13/10
+[*][building]stone[/building] Cegielnia, poziom 14
+[|][b]22:11:53[|]13/14/10
+[*][building]wood[/building] Tartak, poziom 14
+[|][b]1d 01:05:38[|]14/14/10
+[*][building]iron[/building] Huta żelaza, poziom 11
+[|][b]1d 02:25:07[|]14/14/11
+[*][building]stone[/building] Cegielnia, poziom 15
+[|][b]1d 06:04:28[|]14/15/11
+[*][building]wood[/building] Tartak, poziom 15
+[|][b]1d 09:06:40[|]15/15/11
+[*][building]storage[/building] Spichlerz, poziom 6
+[|][b]1d 09:17:15[|]15/15/11
+[*][building]stone[/building] Cegielnia, poziom 16
+[|][b]1d 13:25:19[|]15/16/11
+[*][building]iron[/building] Huta żelaza, poziom 12
+[|][b]1d 14:22:04[|]15/16/12
+[*][building]wood[/building] Tartak, poziom 16
+[|][b]1d 17:59:17[|]16/16/12
+[*][building]iron[/building] Huta żelaza, poziom 13
+[|][b]1d 19:59:05[|]16/16/13
+[*][building]storage[/building] Spichlerz, poziom 7
+[|][b]1d 20:14:13[|]16/16/13
+[*][building]wood[/building] Tartak, poziom 17
+[|][b]2d 00:51:20[|]17/16/13
+[*][building]stone[/building] Cegielnia, poziom 17
+[|][b]2d 04:03:52[|]17/17/13
+[*][building]main[/building] Ratusz, poziom 5
+[|][b]2d 04:09:48[|]17/17/13
+[*][building]storage[/building] Spichlerz, poziom 8
+[|][b]2d 04:29:18[|]17/17/13
+[*][building]stone[/building] Cegielnia, poziom 18
+[|][b]2d 09:14:52[|]17/18/13
+[*][building]iron[/building] Huta żelaza, poziom 14
+[|][b]2d 10:36:27[|]17/18/14
+[*][building]market[/building] Rynek, poziom 3
+[|][b]2d 10:39:20[|]17/18/14
+[*][building]farm[/building] Zagroda, poziom 6
+[|][b]2d 10:51:11[|]17/18/14
+[*][building]market[/building] Rynek, poziom 4
+[|][b]2d 11:00:02[|]17/18/14
+[*][building]main[/building] Ratusz, poziom 6
+[|][b]2d 11:08:56[|]17/18/14
+[*][building]farm[/building] Zagroda, poziom 7
+[|][b]2d 11:25:05[|]17/18/14
+[*][building]main[/building] Ratusz, poziom 7
+[|][b]2d 11:37:12[|]17/18/14
+[*][building]wall[/building] Mur, poziom 5
+[|][b]2d 11:57:38[|]17/18/14
+[*][building]market[/building] Rynek, poziom 5
+[|][b]2d 12:12:58[|]17/18/14
+[*][building]storage[/building] [b][color=red]Aktywuj 30% prędkości wydobycia na 48h[/color][/b][|]*[|]*
+[*][building]wood[/building] Tartak, poziom 18
+[|][b]2d 15:44:26[|]18/18/14
+[*][building]iron[/building] Huta żelaza, poziom 15
+[|][b]2d 17:16:57[|]18/18/15
+[*][building]storage[/building] Spichlerz, poziom 9
+[|][b]2d 17:41:21[|]18/18/15
+[*][building]stone[/building] Cegielnia, poziom 19
+[|][b]2d 21:25:01[|]18/19/15
+[*][building]wood[/building] Tartak, poziom 19
+[|][b]3d 00:47:20[|]19/19/15
+[*][building]storage[/building] Spichlerz, poziom 10
+[|][b]3d 01:17:50[|]19/19/15
+[*][building]stone[/building] Cegielnia, poziom 20
+[|][b]3d 05:35:03[|]19/20/15
+[*][building]main[/building] Ratusz, poziom 8
+[|][b]3d 05:51:19[|]19/20/15
+[*][building]wood[/building] Tartak, poziom 20
+[|][b]3d 09:05:30[|]20/20/15
+[*][building]iron[/building] Huta żelaza, poziom 16
+[|][b]3d 10:52:15[|]20/20/16
+[*][building]storage[/building] Spichlerz, poziom 11
+[|][b]3d 11:28:51[|]20/20/16
+[*][building]iron[/building] Huta żelaza, poziom 17
+[|][b]3d 13:36:57[|]20/20/17
+[*][building]stone[/building] Cegielnia, poziom 21
+[|][b]3d 17:47:03[|]20/21/17
+[*][building]main[/building] Ratusz, poziom 9
+[|][b]3d 18:07:23[|]20/21/17
+[*][building]main[/building] Ratusz, poziom 10
+[|][b]3d 18:31:47[|]20/21/17
+[*][building]wood[/building] Tartak, poziom 21
+[|][b]3d 22:04:16[|]21/21/17
+[*][building]storage[/building] Spichlerz, poziom 12
+[|][b]3d 22:44:56[|]21/21/17
+[*][building]farm[/building] Zagroda, poziom 8
+[|][b]3d 23:03:14[|]21/21/17
+[*][building]farm[/building] Zagroda, poziom 9
+[|][b]3d 23:27:38[|]21/21/17
+[*][building]storage[/building] Spichlerz, poziom 13
+[|][b]4d 00:18:28[|]21/21/17
+[*][building]stone[/building] Cegielnia, poziom 22
+[|][b]4d 04:37:43[|]21/22/17
+[*][building]wood[/building] Tartak, poziom 22
+[|][b]4d 08:40:42[|]22/22/17
+[*][building]iron[/building] Huta żelaza, poziom 18
+[|][b]4d 11:01:00[|]22/22/18
+[*][building]storage[/building] Spichlerz, poziom 14
+[|][b]4d 12:03:01[|]22/22/18
+[*][building]storage[/building] [b][color=red]Tutaj bonus wydobycia się kończy[/color][/b][|]*[|]*
+[*][building]stone[/building] Cegielnia, poziom 23
+[|][b]4d 16:56:37[|]22/23/18
+[*][building]wood[/building] Tartak, poziom 23
+[|][b]4d 22:22:53[|]23/23/18
+[*][building]storage[/building] Spichlerz, poziom 15
+[|][b]4d 23:36:26[|]23/23/18
+[*][building]stone[/building] Cegielnia, poziom 24
+[|][b]5d 07:20:57[|]23/24/18
+[*][building]iron[/building] Huta żelaza, poziom 19
+[|][b]5d 10:06:26[|]23/24/19
+[*][building]wood[/building] Tartak, poziom 24
+[|][b]5d 17:03:16[|]24/24/19
+[*][building]storage[/building] Spichlerz, poziom 16
+[|][b]5d 18:32:29[|]24/24/19
+[*][building]stone[/building] Cegielnia, poziom 25
+[|][b]6d 03:01:37[|]24/25/19
+[*][building]iron[/building] Huta żelaza, poziom 20
+[|][b]6d 06:20:13[|]24/25/20
+[*][building]wood[/building] Tartak, poziom 25
+[|][b]6d 13:38:55[|]25/25/20
+[*][building]main[/building] Ratusz, poziom 11
+[|][b]6d 14:07:18[|]25/25/20
+[*][building]storage[/building] Spichlerz, poziom 17
+[|][b]6d 15:50:00[|]25/25/20
+[*][building]stone[/building] Cegielnia, poziom 26
+[|][b]7d 00:33:22[|]25/26/20
+[*][building]iron[/building] Huta żelaza, poziom 21
+[|][b]7d 04:19:59[|]25/26/21
+[*][building]main[/building] Ratusz, poziom 12
+[|][b]7d 04:53:36[|]25/26/21
+[*][building]wood[/building] Tartak, poziom 26
+[|][b]7d 12:17:20[|]26/26/21
+[*][building]storage[/building] Spichlerz, poziom 18
+[|][b]7d 14:15:14[|]26/26/21
+[*][building]stone[/building] Cegielnia, poziom 27
+[|][b]8d 00:15:53[|]26/27/21
+[*][building]main[/building] Ratusz, poziom 13
+[|][b]8d 00:55:21[|]26/27/21
+[*][building]main[/building] Ratusz, poziom 14
+[|][b]8d 01:41:23[|]26/27/21
+[*][building]wood[/building] Tartak, poziom 27
+[|][b]8d 10:23:22[|]27/27/21
+[*][building]storage[/building] Spichlerz, poziom 19
+[|][b]8d 12:31:57[|]27/27/21
+[*][building]storage[/building] Spichlerz, poziom 20
+[|][b]8d 15:06:16[|]27/27/21
+[*][building]stone[/building] Cegielnia, poziom 28
+[|][b]9d 01:03:13[|]27/28/21
+[*][building]iron[/building] Huta żelaza, poziom 22
+[|][b]9d 04:57:25[|]27/28/22
+[*][building]main[/building] Ratusz, poziom 15
+[|][b]9d 05:50:49[|]27/28/22
+[*][building]farm[/building] Zagroda, poziom 10
+[|][b]9d 06:14:23[|]27/28/22
+[*][building]wood[/building] Tartak, poziom 28
+[|][b]9d 15:07:51[|]28/28/22
+[*][building]farm[/building] Zagroda, poziom 11
+[|][b]9d 15:37:30[|]28/28/22
+[*][building]farm[/building] Zagroda, poziom 12
+[|][b]9d 16:14:22[|]28/28/22
+[*][building]storage[/building] Spichlerz, poziom 21
+[|][b]9d 19:10:27[|]28/28/22
+[*][building]stone[/building] Cegielnia, poziom 29
+[|][b]10d 05:44:50[|]28/29/22
+[*][building]main[/building] Ratusz, poziom 16
+[|][b]10d 06:46:31[|]28/29/22
+[*][building]iron[/building] Huta żelaza, poziom 23
+[|][b]10d 11:00:20[|]28/29/23
+[*][building]iron[/building] Huta żelaza, poziom 24
+[|][b]10d 16:03:17[|]28/29/24
+[*][building]main[/building] Ratusz, poziom 17
+[|][b]10d 17:14:18[|]28/29/24
+[*][building]main[/building] Ratusz, poziom 18
+[|][b]10d 18:35:49[|]28/29/24
+[*][building]farm[/building] Zagroda, poziom 13
+[|][b]10d 19:15:05[|]28/29/24
+[*][building]storage[/building] Spichlerz, poziom 22
+[|][b]10d 22:17:04[|]28/29/24
+[*][building]storage[/building] Spichlerz, poziom 23
+[|][b]11d 01:54:30[|]28/29/24
+[*][building]stone[/building] Cegielnia, poziom 30
+[|][b]11d 14:12:36[|]28/30/24
+[*][building]main[/building] Ratusz, poziom 19
+[|][b]11d 15:45:57[|]28/30/24
+[*][building]iron[/building] Huta żelaza, poziom 25
+[|][b]11d 20:58:01[|]28/30/25
+[*][building]iron[/building] Huta żelaza, poziom 26
+[|][b]12d 03:09:49[|]28/30/26
+[*][building]iron[/building] Huta żelaza, poziom 27
+[|][b]12d 10:32:29[|]28/30/27
+[*][building]wood[/building] Tartak, poziom 29
+[|][b]12d 19:09:19[|]29/30/27
+[*][building]iron[/building] Huta żelaza, poziom 28
+[|][b]13d 03:55:59[|]29/30/28
+[*][building]iron[/building] Huta żelaza, poziom 29
+[|][b]13d 14:16:11[|]29/30/29
+[*][building]storage[/building] Spichlerz, poziom 24
+[|][b]13d 18:23:21[|]29/30/29
+[*][building]iron[/building] Huta żelaza, poziom 30
+[|][b]14d 06:47:35[|]29/30/30
+[*][building]wood[/building] Tartak, poziom 30
+[|][b]14d 17:12:37[|]30/30/30
+[/table]
