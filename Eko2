@@ -1,0 +1,429 @@
+[table]
+[**]Zlecenie[||]Suma czasów budowy[||]Eko[/**]
+[*][building]wood[/building] Tartak, poziom 1
+[|][b]00:00:05[|]1/0/0
+[*][building]stone[/building] Cegielnia, poziom 1
+[|][b]00:00:10[|]1/1/0
+[*][building]iron[/building] Huta żelaza, poziom 1
+[|][b]00:00:16[|]1/1/1
+[*][building]stone[/building] Cegielnia, poziom 2
+[|][b]00:00:21[|]1/2/1
+[*][building]wood[/building] Tartak, poziom 2
+[|][b]00:00:26[|]2/2/1
+[*][building]main[/building] Ratusz, poziom 2
+[|][b]00:00:31[|]2/2/1
+[*][building]storage[/building] Spichlerz, poziom 2
+[|][b]00:00:36[|]2/2/1
+[*][building]iron[/building] Huta żelaza, poziom 2
+[|][b]00:00:42[|]2/2/2
+[*][building]main[/building] Ratusz, poziom 3
+[|][b]00:01:50[|]2/2/2
+[*][building]wood[/building] Tartak, poziom 3
+[|][b]00:02:55[|]3/2/2
+[*][building]main[/building] Ratusz, poziom 4
+[|][b]00:06:11[|]3/2/2
+[*][building]storage[/building] Spichlerz, poziom 3
+[|][b]00:07:21[|]3/2/2
+[*][building]iron[/building] Huta żelaza, poziom 3
+[|][b]00:08:35[|]3/2/3
+[*][building]stone[/building] Cegielnia, poziom 3
+[|][b]00:09:37[|]3/3/3
+[*][building]iron[/building] Huta żelaza, poziom 4
+[|][b]00:13:21[|]3/3/4
+[*][building]wood[/building] Tartak, poziom 4
+[|][b]00:16:28[|]4/3/4
+[*][building]stone[/building] Cegielnia, poziom 4
+[|][b]00:19:35[|]4/4/4
+[*][building]wood[/building] Tartak, poziom 5
+[|][b]00:25:31[|]5/4/4
+[*][building]wood[/building] Tartak, poziom 6
+[|][b]00:34:52[|]6/4/4
+[*][building]stone[/building] Cegielnia, poziom 5
+[|][b]00:40:48[|]6/5/4
+[*][building]iron[/building] Huta żelaza, poziom 5
+[|][b]00:47:55[|]6/5/5
+[*][building]wood[/building] Tartak, poziom 7
+[|][b]01:01:16[|]7/5/5
+[*][building]stone[/building] Cegielnia, poziom 6
+[|][b]01:10:37[|]7/6/5
+[*][building]stone[/building] Cegielnia, poziom 7
+[|][b]01:23:58[|]7/7/5
+[*][building]wood[/building] Tartak, poziom 8
+[|][b]01:42:03[|]8/7/5
+[*][building]stone[/building] Cegielnia, poziom 8
+[|][b]02:00:08[|]8/8/5
+[*][building]wood[/building] Tartak, poziom 9
+[|][b]02:23:47[|]9/8/5
+[*][building]stone[/building] Cegielnia, poziom 9
+[|][b]02:47:26[|]9/9/5
+[*][building]stone[/building] Cegielnia, poziom 10
+[|][b]03:17:40[|]9/10/5
+[*][building]farm[/building] Zagroda, poziom 2
+[|][b]03:17:46[|]9/10/5
+[*][building]barracks[/building] Koszary, poziom 1
+[|][b]03:17:54[|]9/10/5
+[*][building]market[/building] Rynek, poziom 1
+[|][b]03:18:04[|]9/10/5
+[*][building]wall[/building] Mur, poziom 1
+[|][b]03:18:17[|]9/10/5
+[*][building]wall[/building] Mur, poziom 2
+[|][b]03:18:30[|]9/10/5
+[*][building]stone[/building] Cegielnia, poziom 11
+[|][b]03:56:32[|]9/11/5
+[*][building]farm[/building] Zagroda, poziom 3
+[|][b]03:57:54[|]9/11/5
+[*][building]wood[/building] Tartak, poziom 10
+[|][b]04:28:08[|]10/11/5
+[*][building]iron[/building] Huta żelaza, poziom 6
+[|][b]04:39:20[|]10/11/6
+[*][building]wall[/building] Mur, poziom 3
+[|][b]04:43:22[|]10/11/6
+[*][building]iron[/building] Huta żelaza, poziom 7
+[|][b]04:59:23[|]10/11/7
+[*][building]storage[/building] Spichlerz, poziom 4
+[|][b]05:02:55[|]10/11/7
+[*][building]farm[/building] Zagroda, poziom 4
+[|][b]05:07:04[|]10/11/7
+[*][building]farm[/building] Zagroda, poziom 5
+[|][b]05:14:58[|]10/11/7
+[*][building]iron[/building] Huta żelaza, poziom 8
+[|][b]05:37:04[|]10/11/8
+[*][building]storage[/building] Spichlerz, poziom 5
+[|][b]05:43:47[|]10/11/8
+[*][building]wood[/building] Tartak, poziom 11
+[|][b]07:24:31[|]11/11/8
+[*][building]wood[/building] Tartak, poziom 12
+[|][b]09:33:37[|]12/11/8
+[*][building]stone[/building] Cegielnia, poziom 12
+[|][b]11:31:57[|]12/12/8
+[*][building]iron[/building] Huta żelaza, poziom 9
+[|][b]12:48:53[|]12/12/9
+[*][building]wood[/building] Tartak, poziom 13
+[|][b]15:40:02[|]13/12/9
+[*][building]stone[/building] Cegielnia, poziom 13
+[|][b]17:50:58[|]13/13/9
+[*][building]wall[/building] Mur, poziom 4
+[|][b]18:03:20[|]13/13/9
+[*][building]iron[/building] Huta żelaza, poziom 10
+[|][b]19:01:29[|]13/13/10
+[*][building]market[/building] Rynek, poziom 2
+[|][b]19:01:39[|]13/13/10
+[*][building]stone[/building] Cegielnia, poziom 14
+[|][b]22:11:53[|]13/14/10
+[*][building]wood[/building] Tartak, poziom 14
+[|][b]1d 01:05:38[|]14/14/10
+[*][building]iron[/building] Huta żelaza, poziom 11
+[|][b]1d 02:25:07[|]14/14/11
+[*][building]stone[/building] Cegielnia, poziom 15
+[|][b]1d 06:04:28[|]14/15/11
+[*][building]wood[/building] Tartak, poziom 15
+[|][b]1d 09:06:40[|]15/15/11
+[*][building]storage[/building] Spichlerz, poziom 6
+[|][b]1d 09:17:15[|]15/15/11
+[*][building]stone[/building] Cegielnia, poziom 16
+[|][b]1d 13:25:19[|]15/16/11
+[*][building]iron[/building] Huta żelaza, poziom 12
+[|][b]1d 14:22:04[|]15/16/12
+[*][building]wood[/building] Tartak, poziom 16
+[|][b]1d 17:59:17[|]16/16/12
+[*][building]iron[/building] Huta żelaza, poziom 13
+[|][b]1d 19:59:05[|]16/16/13
+[*][building]storage[/building] Spichlerz, poziom 7
+[|][b]1d 20:14:13[|]16/16/13
+[*][building]wood[/building] Tartak, poziom 17
+[|][b]2d 00:51:20[|]17/16/13
+[*][building]stone[/building] Cegielnia, poziom 17
+[|][b]2d 04:03:52[|]17/17/13
+[*][building]main[/building] Ratusz, poziom 5
+[|][b]2d 04:09:48[|]17/17/13
+[*][building]storage[/building] Spichlerz, poziom 8
+[|][b]2d 04:29:18[|]17/17/13
+[*][building]stone[/building] Cegielnia, poziom 18
+[|][b]2d 09:14:52[|]17/18/13
+[*][building]iron[/building] Huta żelaza, poziom 14
+[|][b]2d 10:36:27[|]17/18/14
+[*][building]market[/building] Rynek, poziom 3
+[|][b]2d 10:39:20[|]17/18/14
+[*][building]farm[/building] Zagroda, poziom 6
+[|][b]2d 10:51:11[|]17/18/14
+[*][building]market[/building] Rynek, poziom 4
+[|][b]2d 11:00:02[|]17/18/14
+[*][building]main[/building] Ratusz, poziom 6
+[|][b]2d 11:08:56[|]17/18/14
+[*][building]farm[/building] Zagroda, poziom 7
+[|][b]2d 11:25:05[|]17/18/14
+[*][building]main[/building] Ratusz, poziom 7
+[|][b]2d 11:37:12[|]17/18/14
+[*][building]wall[/building] Mur, poziom 5
+[|][b]2d 11:57:38[|]17/18/14
+[*][building]market[/building] Rynek, poziom 5
+[|][b]2d 12:12:58[|]17/18/14
+[*][building]storage[/building] [b][color=red]Aktywuj 30% prędkości wydobycia na 48h[/color][/b][|]*[|]*
+[*][building]wood[/building] Tartak, poziom 18
+[|][b]2d 15:44:26[|]18/18/14
+[*][building]iron[/building] Huta żelaza, poziom 15
+[|][b]2d 17:16:57[|]18/18/15
+[*][building]storage[/building] Spichlerz, poziom 9
+[|][b]2d 17:41:21[|]18/18/15
+[*][building]stone[/building] Cegielnia, poziom 19
+[|][b]2d 21:25:01[|]18/19/15
+[*][building]wood[/building] Tartak, poziom 19
+[|][b]3d 00:47:20[|]19/19/15
+[*][building]storage[/building] Spichlerz, poziom 10
+[|][b]3d 01:17:50[|]19/19/15
+[*][building]stone[/building] Cegielnia, poziom 20
+[|][b]3d 05:35:03[|]19/20/15
+[*][building]main[/building] Ratusz, poziom 8
+[|][b]3d 05:51:19[|]19/20/15
+[*][building]storage[/building] [b][color=red]Aktywuj 10% Wzmocnienie budowy na 24h[/color][/b][|]*[|]*
+[*][building]wood[/building] Tartak, poziom 20
+[|][b]3d 09:05:30[|]20/20/15
+[*][building]iron[/building] Huta żelaza, poziom 16
+[|][b]3d 10:52:15[|]20/20/16
+[*][building]storage[/building] Spichlerz, poziom 11
+[|][b]3d 11:28:51[|]20/20/16
+[*][building]iron[/building] Huta żelaza, poziom 17
+[|][b]3d 13:36:57[|]20/20/17
+[*][building]stone[/building] Cegielnia, poziom 21
+[|][b]3d 17:47:03[|]20/21/17
+[*][building]main[/building] Ratusz, poziom 9
+[|][b]3d 18:07:23[|]20/21/17
+[*][building]main[/building] Ratusz, poziom 10
+[|][b]3d 18:31:47[|]20/21/17
+[*][building]wood[/building] Tartak, poziom 21
+[|][b]3d 22:04:16[|]21/21/17
+[*][building]storage[/building] Spichlerz, poziom 12
+[|][b]3d 22:44:56[|]21/21/17
+[*][building]farm[/building] Zagroda, poziom 8
+[|][b]3d 23:03:14[|]21/21/17
+[*][building]farm[/building] Zagroda, poziom 9
+[|][b]3d 23:27:38[|]21/21/17
+[*][building]storage[/building] Spichlerz, poziom 13
+[|][b]4d 00:18:28[|]21/21/17
+[*][building]stone[/building] Cegielnia, poziom 22
+[|][b]4d 04:37:43[|]21/22/17
+[*][building]wood[/building] Tartak, poziom 22
+[|][b]4d 08:40:42[|]22/22/17
+[*][building]iron[/building] Huta żelaza, poziom 18
+[|][b]4d 11:01:00[|]22/22/18
+[*][building]storage[/building] Spichlerz, poziom 14
+[|][b]4d 12:03:01[|]22/22/18
+[*][building]storage[/building] [b][color=red]Tutaj bonus wydobycia się kończy[/color][/b][|]*[|]*
+[*][building]stone[/building] Cegielnia, poziom 23
+[|][b]4d 16:56:37[|]22/23/18
+[*][building]wood[/building] Tartak, poziom 23
+[|][b]4d 22:22:53[|]23/23/18
+[*][building]storage[/building] Spichlerz, poziom 15
+[|][b]4d 23:36:26[|]23/23/18
+[*][building]stone[/building] Cegielnia, poziom 24
+[|][b]5d 07:20:57[|]23/24/18
+[*][building]iron[/building] Huta żelaza, poziom 19
+[|][b]5d 10:06:26[|]23/24/19
+[*][building]wood[/building] Tartak, poziom 24
+[|][b]5d 17:03:16[|]24/24/19
+[*][building]storage[/building] Spichlerz, poziom 16
+[|][b]5d 18:32:29[|]24/24/19
+[*][building]stone[/building] Cegielnia, poziom 25
+[|][b]6d 03:01:37[|]24/25/19
+[*][building]iron[/building] Huta żelaza, poziom 20
+[|][b]6d 06:20:13[|]24/25/20
+[*][building]wood[/building] Tartak, poziom 25
+[|][b]6d 13:38:55[|]25/25/20
+[*][building]main[/building] Ratusz, poziom 11
+[|][b]6d 14:07:18[|]25/25/20
+[*][building]storage[/building] Spichlerz, poziom 17
+[|][b]6d 15:50:00[|]25/25/20
+[*][building]stone[/building] Cegielnia, poziom 26
+[|][b]7d 00:33:22[|]25/26/20
+[*][building]iron[/building] Huta żelaza, poziom 21
+[|][b]7d 04:19:59[|]25/26/21
+[*][building]main[/building] Ratusz, poziom 12
+[|][b]7d 04:53:36[|]25/26/21
+[*][building]wood[/building] Tartak, poziom 26
+[|][b]7d 12:17:20[|]26/26/21
+[*][building]storage[/building] Spichlerz, poziom 18
+[|][b]7d 14:15:14[|]26/26/21
+[*][building]stone[/building] Cegielnia, poziom 27
+[|][b]8d 00:15:53[|]26/27/21
+[*][building]main[/building] Ratusz, poziom 13
+[|][b]8d 00:55:21[|]26/27/21
+[*][building]main[/building] Ratusz, poziom 14
+[|][b]8d 01:41:23[|]26/27/21
+[*][building]wood[/building] Tartak, poziom 27
+[|][b]8d 10:23:22[|]27/27/21
+[*][building]storage[/building] [b][color=red]Zmiana względem pierwotnego szablonu[/color][/b][|]*[|]*
+[*][building]main[/building] Ratusz, poziom 15 [b](nowe) [/b]
+[|][b]-[|]27/27/21
+[*][building]main[/building] Ratusz, poziom 16 [b](nowe) [/b]
+[|][b]-[|]27/27/21
+[*][building]farm[/building] Zagroda, poziom 10 [b](nowe) [/b]
+[|][b]-[|]27/27/21
+[*][building]iron[/building] Huta żelaza, poziom 22 [b](nowe) [/b]
+[|][b]-[|]27/27/22
+[*][building]iron[/building] Huta żelaza, poziom 23 [b](nowe) [/b]
+[|][b]-[|]27/27/23
+[*][building]iron[/building] Huta żelaza, poziom 24 [b](nowe) [/b]
+[|][b]-[|]27/27/24
+[*][building]farm[/building] Zagroda, poziom 12 [b](nowe) [/b]
+[|][b]-[|]27/27/24
+[*][building]smith[/building] Kuźnia, poziom 1 [b](nowe) [/b]
+[|][b]Odblokowujemy [unit]sword[/unit] pzm.1[|]27/27/24
+[*][building]barracks[/building] Koszary, poziom 2 [b](nowe) [/b]
+[|][b]Rekrutujemy 130[unit]spear[/unit] i 130[unit]sword[/unit] w trakcie i po budowie zagrody[|]27/27/24
+[*][building]farm[/building] Zagroda, poziom 12 [b](nowe) [/b]
+[|][b]-[|]27/27/24
+[*][building]iron[/building] Huta żelaza, poziom 25 [b](nowe) [/b]
+[|][b]-[|]27/27/25
+[*][building]main[/building] Ratusz, poziom 17 [b](nowe) [/b]
+[|][b]-[|]27/27/25
+[*][building]main[/building] Ratusz, poziom 18 [b](nowe) [/b]
+[|][b]-[|]27/27/25
+[*][building]main[/building] Ratusz, poziom 19 [b](nowe) [/b]
+[|][b]-[|]27/27/25
+[*][building]farm[/building] Zagroda, poziom 13 [b](nowe) [/b]
+[|][b]-[|]27/27/25
+[*][building]iron[/building] Huta żelaza, poziom 26 [b](nowe) [/b]
+[|][b]-[|]27/27/26
+[*][building]smith[/building] Kuźnia, poziom 2 [b](nowe) [/b]
+[|][b]Odblokowujemy [unit]axe[/unit] pzm.1[|]27/27/24
+[*][building]storage[/building] Spichlerz, poziom 19 [b](nowe) [/b]
+[|][b]-[|]27/27/26
+[*][building]farm[/building] Zagroda, poziom 14 [b](nowe) [/b]
+[|][b]-[|]27/27/26
+[*][building]iron[/building] Huta żelaza, poziom 27 [b](nowe) [/b]
+[|][b]Rekrutujemy przed i w trakcie budowy tyle [unit]axe[/unit] aby surka się nie przelała (ok.100-150) [|]27/27/27
+[*][building]storage[/building] [b][color=red]Przechodzisz na SZABLON BUDOWY - FAZA 2[/color][/b][|]*[|]*
+[/table]
+
+[b]ADNOTACJA DO NOWEJ CZĘŚCI SZABLONU:[/b]
+Ponieważ pod koniec trzeba ciągle budować hutę żelaza to będziecie mieli prawdopodobnie spory nadmiar drewna i lekki nadmiar żelaza. Jeśli wystąpi taka sytuacja to w pierwszej kolejności starajcie się rekrutowac toporników, ale tylko tyle by nadal mięć dużo surki przed przejścjem na szablon 2. W ostateczności możecie po prostu nadmiarowo podnieść [building]storage[/building] Spichlerz - najważniejsze, żeby nie marnować surki. Pod koniec tej fazy będziecie pewnie mieli spory % zapełnienia spichlerza, który przyda Wam się w następnej fazie. 
+
+
+
+[size=12][b][color=red]Nowy szablon budowy - FAZA 2 "pałac + wojsko"[/b][/size]
+
+Celem poniższego szablonu jest wybudowanie przez każdego gracza pałacu oraz zrekrutowania minimalnej, wymaganej przez nas ilości wojska w postaci:[b]
+- 150[unit]spear[/unit] (żelazny deff) (technologia pzm.1)
+- 150[unit]sword[/unit] (żelazny deff) (technologia pzm.1)
+- min. 1100[unit]axe[/unit] (technologia min. pzm.4)
+- min. 100[unit]spy[/unit] (technologia pzm.1)
+- min. 300[unit]light[/unit] (technologia min. pzm.4)
+- min. 140[unit]ram[/unit] (technologia min. pzm.3)
+- min. 50[unit]catapult[/unit] (tecnologia pzm.1)
+- 2[unit]snob[/unit] (szlachcice)[/b]
+
+[color=orange]Każdy gracz powinien uzyskać eko 27/27/27 oraz powyższe wojsko w 15,5-18 dni OD STARTU GRACZA. Wszystko tak na prawdę zależy od:
+- Waszej aktywności 
+- śledzenia szablonu
+- słuchania naszych rad
+- podstawowych umiejętności matematycznych[/color]
+
+[b]W związku z tym gracze, którzy nie wyrobią się do 18 dnia (432h) od swojego startu z powyższym wymogiem - wylatują (zgodnie z wyliczeniem zastrzegamy sobie prawo do wyrzucenia przed upływem 18 dni osób, które będą opóźnione w rozwoju 3 lub więcej dni od naszych graczy w topce - oczywiście uwzględniając późniejsze starty u co poniektórych)!!! Chodzi o to aby odsiać najsłabsze oraz niesłuchające się jednostki. Każdy gracz, który rozwija się z szablonem nawet przy drobnych odejściach od schematu i nawet bez nadzwyczajnej aktywności powinien te warunki bezproblemowo spełnić :)[/b]
+
+[b]WAŻNE INFO:[/b]
+- Pierwsze 3,5-4,5 dni po przejściu z fazy 1 skupiacie się na rozbudowie budynków i rekrutacji wojska z wolnych surowców (czyli utrzymujemy kolejkę budowy 24/7, a za nadmiar surowców rekrutujemy topory/zwiad/lekką kawalerię/tarany).
+- Ostatnie 2,5-3 dni powinny polegać na zbieraniu surowców na szlachciców -> po wybudowaniu pałacu musicie uzbierać surowce na 3 monety (3x po [img]https://help.plemiona.pl/images/8/88/Drewno.png[/img]25000/[img]https://help.plemiona.pl/images/8/89/Glina.png[/img]30000/[img]https://help.plemiona.pl/images/8/8b/Zelazo.png[/img]28000) oraz na 2[unit]snob[/unit] szlachciców (2x po [img]https://help.plemiona.pl/images/8/88/Drewno.png[/img]40000/[img]https://help.plemiona.pl/images/8/89/Glina.png[/img]50000/[img]https://help.plemiona.pl/images/8/8b/Zelazo.png[/img]50000)
+- Pod koniec za wolne surowce możecie rekrutować wojsko oraz podwyższać poziom technologii
+
+[b]Zagrodę budujemy według rekrutacji jednostek tak, aby zawsze było w niej miejsce - docelowy poziom zagrody to 20/21 w zależności od ilości wojska!!!!! Proponowana kolejność, w której budować budynki nie licząc zagrody to:[/b]
+
+[table]
+[*][building]main[/building] Ratusz, poziom 20
+[|][b][/b]
+[*][building]barracks[/building] Koszary, poziom 3
+[|][b][/b]
+[*][building]barracks[/building] Koszary, poziom 4
+[|][b][/b]
+[*][building]barracks[/building] Koszary, poziom 5
+[|][b][/b]
+[*][building]storage[/building] Spichlerz, poziom 20
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 3
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 4
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 5
+[|][b][/b]
+[*][building]stable[/building] Stajnia, poziom 1
+[|][b]Odblokowujemy [unit]spy[/unit] pzm.1[/b]
+[*][building]stable[/building] Stajnia, poziom 2
+[|][b][/b]
+[*][building]stable[/building] Stajnia, poziom 3
+[|][b]Odblokowujemy [unit]light[/unit] pzm.1
+[*][building]barracks[/building] Koszary, poziom 6
+[|][b][/b]
+[*][building]barracks[/building] Koszary, poziom 7
+[|][b][/b]
+[*][building]barracks[/building] Koszary, poziom 8
+[|][b][/b]
+[*][building]barracks[/building] Koszary, poziom 9
+[|][b][/b]
+[*][building]barracks[/building] Koszary, poziom 10
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 6
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 7
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 8
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 9
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 10
+[|][b][/b]
+[*][building]garage[/building] Warsztat, poziom 1
+[|][b]Odblokowujemy [unit]ram[/unit] pzm.1[/b]
+[*][building]garage[/building] Warsztat, poziom 2
+[|][b][/b]
+[*][building]garage[/building] Warsztat, poziom 3
+[|][b][/b]
+[*][building]garage[/building] Warsztat, poziom 4
+[|][b][/b]
+[*][building]garage[/building] Warsztat, poziom 5
+[|][b][/b]
+[*][building]stable[/building] Stajnia, poziom 4
+[|][b][/b]
+[*][building]stable[/building] Stajnia, poziom 5
+[|][b][/b]
+[*][building]market[/building] Rynek, poziom 6
+[|][b][/b]
+[*][building]market[/building] Rynek, poziom 7
+[|][b][/b]
+[*][building]market[/building] Rynek, poziom 8
+[|][b][/b]
+[*][building]market[/building] Rynek, poziom 9
+[|][b][/b]
+[*][building]market[/building] Rynek, poziom 10
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 11
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 12
+[|][b]Odblokowujemy [unit]catapult[/unit] pzm.1[/b]
+[*][building]smith[/building] Kuźnia, poziom 13
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 14
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 15
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 16
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 17
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 18
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 19
+[|][b][/b]
+[*][building]smith[/building] Kuźnia, poziom 20
+[|][b][/b]
+[*][building]snob[/building] Pałac, poziom 1
+[|][b][/b]
+[*][building]storage[/building] Spichlerz, poziom 21
+[|][b][/b]
+[*][building]snob[/building]
+[|][b]1x moneta[/b]
+[*][building]snob[/building]
+[|][b]1x [unit]snob[/unit][/b]
+[*][building]snob[/building]
+[|][b]2x moneta[/b]
+[*][building]snob[/building]
+[|][b]1x [unit]snob[/unit][/b]
+[/table]
