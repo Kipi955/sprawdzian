@@ -1,0 +1,119 @@
+// ==UserScript==
+// @name         Kreator Szablonów - Naprawiony Przycisk (AM)
+// @match        *://*.plemiona.pl/game.php*screen=am_troops*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    const popKoszty = { spear:1, sword:1, axe:1, archer:1, spy:2, light:4, marcher:5, heavy:6, ram:5, catapult:8 };
+    const ikony = {
+        spear: 'https://dspl.innogamescdn.com/asset/2fe6656b/graphic/unit/recruit/spear.webp',
+        sword: 'https://dspl.innogamescdn.com/asset/2fe6656b/graphic/unit/recruit/sword.webp',
+        axe: 'https://dspl.innogamescdn.com/asset/2fe6656b/graphic/unit/recruit/axe.webp',
+        spy: 'https://dspl.innogamescdn.com/asset/2fe6656b/graphic/unit/recruit/spy.webp',
+        light: 'https://dspl.innogamescdn.com/asset/2fe6656b/graphic/unit/recruit/light.webp',
+        heavy: 'https://dspl.innogamescdn.com/asset/2fe6656b/graphic/unit/recruit/heavy.webp',
+        ram: 'https://dspl.innogamescdn.com/asset/2fe6656b/graphic/unit/recruit/ram.webp',
+        catapult: 'https://dspl.innogamescdn.com/asset/2fe6656b/graphic/unit/recruit/catapult.webp'
+    };
+
+    const stworzUI = () => {
+        if (document.getElementById('am-creator-wrapper')) return;
+
+        // Przycisk otwierający - dodany typ "button" i blokada eventu
+        const openBtn = document.createElement('button');
+        openBtn.type = "button";
+        openBtn.innerHTML = "➕ Stwórz Nowy Szablon";
+        openBtn.className = "btn";
+        openBtn.style = "margin: 10px 0; display: block; font-weight: bold; cursor: pointer;";
+
+        const target = document.getElementById('template_selection') || document.querySelector('.main_layout');
+        if (target) target.parentNode.insertBefore(openBtn, target);
+
+        const win = document.createElement('div');
+        win.id = 'am-creator-wrapper';
+        win.style = "display: none; position: fixed; top: 100px; left: 50%; transform: translateX(-50%); z-index: 10000; background: #f4e4bc; border: 2px solid #7d510f; border-radius: 5px; width: 320px; box-shadow: 0 5px 20px rgba(0,0,0,0.5); padding: 0;";
+
+        win.innerHTML = `
+            <div style="background: #7d510f; color: white; padding: 8px; font-weight: bold; display: flex; justify-content: space-between;">
+                <span>Kreator Szablonu</span>
+                <span id="close-creator" style="cursor: pointer; padding: 0 5px;">[X]</span>
+            </div>
+            <div style="padding: 10px;">
+                <div style="margin-bottom: 10px;">
+                    <input type="text" id="cr-name" placeholder="Nazwa szablonu..." style="width: 140px; font-size: 11px;">
+                    <select id="cr-type" style="font-size: 11px;">
+                        <option value="off">Typ: OFF</option>
+                        <option value="deff">Typ: DEFF</option>
+                    </select>
+                </div>
+                <table style="width: 100%; border-collapse: collapse;">
+                    ${Object.keys(popKoszty).map(u => `
+                        <tr style="height: 26px;">
+                            <td width="25"><img src="${ikony[u]}" width="16"></td>
+                            <td style="font-size: 11px; font-weight: bold;">${u.toUpperCase()}</td>
+                            <td align="right"><input type="number" id="cr_in_${u}" value="0" min="0" style="width: 70px; border: 1px solid #7d510f; font-size: 11px;"></td>
+                        </tr>
+                    `).join('')}
+                </table>
+                <div style="margin-top: 10px; border-top: 1px solid #7d510f; padding-top: 8px;">
+                    <div style="font-weight: bold; text-align: center; margin-bottom: 10px;">
+                        Populacja: <span id="cr-total-pop">0</span>
+                    </div>
+                    <button id="cr-export" type="button" class="btn" style="width: 100%; font-weight: bold;">Eksportuj do kodu</button>
+                    <textarea id="cr-result" style="display: none; width: 95%; height: 50px; margin-top: 8px; font-size: 10px; font-family: monospace; background: #fff;"></textarea>
+                </div>
+            </div>
+        `;
+
+        document.body.appendChild(win);
+
+        const przelicz = () => {
+            let total = 0;
+            Object.keys(popKoszty).forEach(u => {
+                const val = parseInt(document.getElementById(`cr_in_${u}`).value) || 0;
+                total += val * popKoszty[u];
+            });
+            document.getElementById('cr-total-pop').innerText = total.toLocaleString();
+        };
+
+        // Obsługa kliknięcia przycisku głównego
+        openBtn.onclick = (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            win.style.display = (win.style.display === 'none' ? 'block' : 'none');
+        };
+
+        document.getElementById('close-creator').onclick = (e) => {
+            e.preventDefault();
+            win.style.display = 'none';
+        };
+
+        Object.keys(popKoszty).forEach(u => {
+            document.getElementById(`cr_in_${u}`).oninput = przelicz;
+        });
+
+        document.getElementById('cr-export').onclick = (e) => {
+            e.preventDefault();
+            const name = document.getElementById('cr-name').value || "Nowy";
+            const type = document.getElementById('cr-type').value;
+            let units = [];
+
+            Object.keys(popKoszty).forEach(u => {
+                const val = parseInt(document.getElementById(`cr_in_${u}`).value) || 0;
+                if (val > 0) units.push(`${u}: ${val}`);
+            });
+
+            const line = `{ nazwa: '${name}', typ: '${type}', wojsko: { ${units.join(', ')} } },`;
+            const area = document.getElementById('cr-result');
+            area.value = line;
+            area.style.display = 'block';
+            area.select();
+        };
+    };
+
+    setTimeout(stworz
+               UI, 600);
+})();
